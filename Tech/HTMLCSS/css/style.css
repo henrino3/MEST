@@ -1,0 +1,35 @@
+body{
+
+	text-align: center;
+}
+
+img{
+	width: 100px;
+
+	border-radius: 50px;
+}
+
+.carousel-inner > .item > img {
+
+	min-width: 40%!important;
+	margin-left: 32%;
+	}
+
+.header{
+	font-size: 48px;
+	color: #3e3e3e;
+}
+
+.bluebg{
+	background:#5C90C6;
+	padding: 40px;
+}
+
+
+.content{
+	font-size: 64px;
+	color: #222;
+}
+
+
+
